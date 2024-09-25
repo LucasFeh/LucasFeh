@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil ❤️
+## Welcome to my profile ❤️
 <div>
   <a href="https://github.com/LucasFeh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFeh&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra saber mais, me siga nas redes abaixo!
+  ### PTo learn more, follow me on the links below!
  
 <div>
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5531989105398" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
