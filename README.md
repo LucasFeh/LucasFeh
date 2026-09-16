@@ -1,4 +1,6 @@
-<h1 align="center">Lucas Ferreira</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasFeh/LucasFeh/main/glitch-name.svg" alt="Lucas Ferreira" width="100%">
+</p>
 
 <p align="center">
   <b>Desenvolvedor de Soluções e Automação</b> &nbsp;•&nbsp; Arquitetura de Sistemas &nbsp;•&nbsp; Desenvolvimento Assistido por IA
@@ -15,7 +17,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/LucasFeh/LucasFeh/main/wave.gif" width="28" alt="acenando"> Sobre
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="acenando"> Sobre
 
 Transformo problemas de negócio em soluções tecnológicas — do levantamento de requisitos e desenho da arquitetura até o desenvolvimento, implantação e evolução do sistema.
 
@@ -117,6 +119,10 @@ Arquitetura de Software, Arquitetura de Soluções, Automação de Processos, RP
 ---
 
 ## 📊 GitHub
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LucasFeh&label=Visitantes+do+perfil&color=58A6FF&style=for-the-badge" alt="views">
+</p>
 
 <p align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasFeh&theme=github_dark">
