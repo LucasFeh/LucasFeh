@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LucasFeh/LucasFeh/blob/main/README.MD"><img src="https://img.shields.io/badge/PT--BR-ativo-2EA043?style=for-the-badge" alt="Português"></a>
+  <a href="https://github.com/LucasFeh/LucasFeh/blob/main/README.md"><img src="https://img.shields.io/badge/PT--BR-ativo-2EA043?style=for-the-badge" alt="Português"></a>
   <a href="https://github.com/LucasFeh/LucasFeh/blob/main/README.en.md"><img src="https://img.shields.io/badge/EN-read_in_english-30363D?style=for-the-badge" alt="English"></a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Sobre
+## <img src="https://raw.githubusercontent.com/LucasFeh/LucasFeh/main/wave.gif" width="28" alt="acenando"> Sobre
 
 Transformo problemas de negócio em soluções tecnológicas — do levantamento de requisitos e desenho da arquitetura até o desenvolvimento, implantação e evolução do sistema.
 
@@ -119,8 +119,13 @@ Arquitetura de Software, Arquitetura de Soluções, Automação de Processos, RP
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasFeh&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFeh&layout=compact&langs_count=8&theme=highcontrast&hide_border=true">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasFeh&theme=github_dark">
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasFeh&theme=github_dark">
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasFeh&theme=github_dark">
+  <img height="170em" src="https://streak-stats.demolab.com/?user=LucasFeh&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9">
 </p>
 
 ---
