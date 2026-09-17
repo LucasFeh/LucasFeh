@@ -15,6 +15,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=700&color=58A6FF&center=true&vCenter=true&width=900&height=45&lines=Desenvolvedor+de+Solu%C3%A7%C3%B5es+e+Automa%C3%A7%C3%A3o+%7C+Arquitetura+de+Sistemas;Python+%7C+JavaScript+%7C+TypeScript+%7C+C%23+%7C+C%2B%2B+%7C+C+%7C+HTML+%7C+CSS+%7C+VBA+%7C+Pascal;React+%7C+React+Native+%7C+Angular+%7C+Node.js+%7C+APIs+REST+%7C+Integra%C3%A7%C3%A3o+de+Sistemas;Docker+%7C+Linux+%7C+Git+%7C+GitLab+%7C+Redes+%7C+Ciberseguran%C3%A7a+%7C+Infra+On-Premise;SQL+%7C+NoSQL+%7C+Modelagem+de+Dados+%7C+Scrum+%7C+Kanban+%7C+Metodologias+%C3%81geis;IA+Generativa+%7C+Desenvolvimento+Assistido+por+IA+%7C+Automa%C3%A7%C3%A3o+Industrial" alt="Stack">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasFeh/LucasFeh/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasFeh/LucasFeh/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man comendo meus commits" src="https://raw.githubusercontent.com/LucasFeh/LucasFeh/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="acenando"> Sobre
@@ -142,4 +150,14 @@ Arquitetura de Software, Arquitetura de Soluções, Automação de Processos, RP
   <a href="https://www.linkedin.com/in/lucas-ferreira-441b4b173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:lucasf538@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?l=pt_BR&phone=5531989105398" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasFeh/LucasFeh/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasFeh/LucasFeh/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man comendo meus commits" src="https://raw.githubusercontent.com/LucasFeh/LucasFeh/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </p>

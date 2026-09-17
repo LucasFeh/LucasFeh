@@ -1,15 +1,28 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # executa a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push: # regenera os SVGs a cada push na main
+    branches:
+      - main
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
     steps:
+      # Pac-Man Animation (gera dist/pacman-contribution-graph{,-dark}.svg)
+      - name: generate pacman contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: LucasFeh
+          games: pacman
+
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
