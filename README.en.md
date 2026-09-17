@@ -151,13 +151,3 @@ Software Architecture, Solutions Architecture, Process Automation, RPA, Industri
   <a href="mailto:lucasf538@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?l=pt_BR&phone=5531989105398" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasFeh/LucasFeh/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasFeh/LucasFeh/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating my commits" src="https://raw.githubusercontent.com/LucasFeh/LucasFeh/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</p>
